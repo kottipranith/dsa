@@ -1,0 +1,73 @@
+Linked List:
+------------
+1.Leetcode-81
+2.Leetcode-21
+3.Leetcode-141
+4.Length of cycle 
+5.Leetcode-142
+6.Leetcode-202
+7.Leetcode-876
+8.Leetcode-148(merge ,bubble,insertion)
+9.Reversing linked list
+10.Leetcode-92
+11.Leetcode-234
+12.Leetcode-143
+13.Leetcode-25
+14.Reverse k linked list elements alternatively
+15.Leetcode-61
+
+
+imp**
+-----
+->Reversal of a linked list.
+->slow pointer apparoach.
+
+
+Stacks and Queues:
+------------------
+1.Leetcode-232
+2.Hackerrank-Game of 2 stacks
+3.Largest area under histogram
+4.Next greatest element .
+5.valid parenthesis.
+6.postfix evaluation.
+7.infix to postfix
+
+
+Trees:
+-------
+points:
+-------
+	Use cases of BFS:
+		1.When the answer lies the root.
+		2.When they are asked to search by levels;
+		
+
+1.Leetcode 102
+2.Leetcode 637
+3.level order successor
+4.Leetcode 103
+5.Leetcode 107
+6.Leetcode 116
+7.Leetcode 199
+8.Leetcode 993
+9.Leetcode 127
+10.Leetcode 987
+11.Leetcode 543
+12.Leetcode 226
+13.Leetcode 104
+14.Leetcode 108
+15.Leetcode 114
+16.Leetcode 98
+17.Leetcode 236
+18.Leetcode 230
+19.Leetcode 105
+20.Leetcode 297
+21.Leetcode 112
+22.Leetcode 129
+23.Leetcode 124
+24.Leetcode 113
+25.path from root to leaf
+GFG top tree questions: https://www.geeksforgeeks.org/top-50-tree-coding-problems-for-interviews/
+
+
